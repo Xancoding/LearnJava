@@ -1,4 +1,5 @@
 ![](https://bu.dusays.com/2023/10/05/651e5d73b2fb6.png)
+- [Java-知识库](https://itbaima.net/document)
 # Java Web 
 这门课不需要敲代码，因为都是已经不用的技术了，知道有这么些东西就可以了
 
